@@ -1,0 +1,38 @@
+﻿生成启动时间为 2019/11/12 12:49:46。
+     1>项目“D:\工作\水泵测试\PumpTestPlatform(4in1dlg) v0.9\PumpTestPlatform\PumpTestPlatform.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\PumpTestPlatform.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         d:\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\PumpTestPlatform.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         d:\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\PumpTestPlatform.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt mscomm1.cpp PumpTestPlatform.cpp PumpTestPlatformDlg.cpp
+         PumpTestPlatformDlg.cpp
+         PumpTestPlatform.cpp
+         mscomm1.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /l"0x0804" /IDebug\ /nologo /fo"Debug\PumpTestPlatform.res" PumpTestPlatform.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\PumpTestPlatform.exe.embed.manifest.res" Debug\PumpTestPlatform_manifest.rc 
+       Link:
+         d:\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\工作\水泵测试\PumpTestPlatform(4in1dlg) v0.9\Debug\PumpTestPlatform.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\PumpTestPlatform.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\工作\水泵测试\PumpTestPlatform(4in1dlg) v0.9\Debug\PumpTestPlatform.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\工作\水泵测试\PumpTestPlatform(4in1dlg) v0.9\Debug\PumpTestPlatform.lib" /MACHINE:X86 Debug\PumpTestPlatform.res
+         Debug\PumpTestPlatform.exe.embed.manifest.res
+         Debug\mscomm1.obj
+         Debug\PumpTestPlatform.obj
+         Debug\PumpTestPlatformDlg.obj
+         Debug\stdafx.obj
+         LINK : 没有找到 D:\工作\水泵测试\PumpTestPlatform(4in1dlg) v0.9\Debug\PumpTestPlatform.exe 或上一个增量链接没有生成它；正在执行完全链接
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\PumpTestPlatform.exe.embed.manifest" /manifest Debug\PumpTestPlatform.exe.intermediate.manifest d:\VS2010\VC\Include\Manifest\dpiaware.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         PumpTestPlatform.vcxproj -> D:\工作\水泵测试\PumpTestPlatform(4in1dlg) v0.9\Debug\PumpTestPlatform.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\PumpTestPlatform.unsuccessfulbuild”。
+         正在对“Debug\PumpTestPlatform.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\工作\水泵测试\PumpTestPlatform(4in1dlg) v0.9\PumpTestPlatform\PumpTestPlatform.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:24.31
